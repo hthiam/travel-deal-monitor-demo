@@ -4,6 +4,10 @@ A Python web application for searching and comparing accommodation prices from B
 
 This project was developed as part of my Python web scraping and automation portfolio.
 
+## 🖥️ Application Preview
+
+![Travel Deal Monitor interface](screenshots/img.png)
+
 ## 🎥 Project Demo
 
 ▶️ [Watch the Travel Deal Monitor demo](demo/travel-deal-monitor-demo.mp4)
